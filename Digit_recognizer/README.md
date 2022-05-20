@@ -1,2 +1,2 @@
 https://www.kaggle.com/competitions/digit-recognizer  
-Top 250 
+top 250 solution  
