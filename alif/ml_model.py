@@ -32,7 +32,7 @@ app = FastAPI()
 
 @app.get('/')
 def root():
-    return {"message": "Welcome\nPlease put your data"}
+    return {"message": "Welcome"}
 
 @app.post("/predict")
 def predict(data: Object):
